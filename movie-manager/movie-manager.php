@@ -81,7 +81,7 @@ function mm_register_movie_post_type() {
     'exclude_from_search'   => false,
     'publicly_queryable'    => true,
     'capability_type'       => 'post',
-    'menu_icon' => 'dashicons-video-alt2',
+    'menu_icon'             => 'dashicons-video-alt2',
     );
     register_post_type( 'movie', $args );
     }
