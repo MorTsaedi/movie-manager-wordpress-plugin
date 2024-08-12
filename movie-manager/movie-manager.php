@@ -4,7 +4,7 @@
  */
 /**
  * Plugin Name: Movie manager
- * Plugin URI: https://github.com/MorTsaedi/wp-plugin
+ * Plugin URI: https://github.com/MorTsaedi/movie-manager-wordpress-plugin
  * Description: this is a test plugin for my <b>dear</b> future CEO XD
  * Version: 1.0.0
  * Author: Morteza Saaedi
