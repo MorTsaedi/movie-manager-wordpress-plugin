@@ -3,7 +3,7 @@
 
 ## the interview task is:
 
-As we talked, please go ahead with the development of the following test project as WordPress plugin and send us the result as best structure as you can.
+Development of the following test project as WordPress plugin.
 
 The test project should have ability to:
 - Add/Edit/Delete for example  movies
